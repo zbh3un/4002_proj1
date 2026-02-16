@@ -23,9 +23,9 @@ SCRIPTS Folder
 
 project1.ipynb – Performs data cleaning, feature engineering, and exploratory data analysis
 
-official_code.ipynb – Applies VADER sentiment analysis and Hugging Face transformer-based model, computes correlations and mismatch rates in the dataset without emojis
+official_code.ipynb – Performs sentiment analysis using VADER and a Hugging Face transformer model on the emoji-cleaned dataset, computes correlations and mismatch rates in the dataset without emojis
 
-official_code_w_emojis - Applies VADER sentiment analysis and Hugging Face transformer-based model, computes correlations and mismatch rates in the dataset with the emojis 
+official_code_w_emojis - Performs sentiment analysis using VADER and a Hugging Face transformer model on the original dataset including emojis, computes correlations and mismatch rates in the dataset with the emojis 
 
 OUTPUT Folder
 
