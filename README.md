@@ -13,17 +13,11 @@
 - scipy
 
 ## Section 2: Map of Documentation
-Top-Level Files
-
-README.md – Overview of the repository and reproduction instructions
-
-LICENSE.md – MIT License for repository use
-
 DATA Folder
 
-reviews.csv file – Spotify reviews dataset (downloaded from Kaggle link provided)
-
 Data_Appendix.pdf – Data appendix describing variables 
+
+reviews.csv file – link to Spotify reviews dataset 
 
 SCRIPTS Folder
 
